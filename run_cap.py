@@ -1,3 +1,5 @@
+# Author: DOLA RAM #
+# DESE, IISc,dola.nith@gmail.com #
 import os
 import sys
 import numpy as np
