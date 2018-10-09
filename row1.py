@@ -7,7 +7,7 @@ from tqdm import tqdm
 from config import cfg
 from utils import load_data
 from capsulnet import CapsNet
-
+main
 
 def save_to():
     if not os.path.exists(cfg.results):
